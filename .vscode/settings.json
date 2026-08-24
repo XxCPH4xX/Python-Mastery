@@ -5,5 +5,14 @@
             "envManager": "ms-python.python:conda",
             "packageManager": "ms-python.python:conda"
         }
-    ]
+    ],
+    "editor.fontSize": 23,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.inlineCompletionsAccessibilityVerbose": false,
+    "python.analysis.languageServerMode": "full"
 }
