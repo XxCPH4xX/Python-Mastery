@@ -1,0 +1,13 @@
+{
+  "cafe": "Dhaka Beans",
+  "items": [
+    {
+      "name": "espresso",
+      "price_bdt": 220
+    },
+    {
+      "name": "cold brew",
+      "price_bdt": 280
+    }
+  ]
+}

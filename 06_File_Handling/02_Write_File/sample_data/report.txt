@@ -1,0 +1,9 @@
+PYTHON QUIZ - SCORE REPORT
+==============================
+Amina     95  ######### <-- top!
+Sarah     92  #########
+Tanvir    78  #######
+Rafi      66  ######
+------------------------------
+Class average : 82.8
+Generated for : Sarah's study group

@@ -1,0 +1,7 @@
+PYTHON QUIZ - REPORT CARD
+=========================
+Amina     95 #########
+Sarah     92 #########
+Tanvir    78 #######
+-------------------------
+Class average : 88.3

@@ -1,0 +1,30 @@
+[
+  {
+    "student_id":"S001",
+    "name":"Sarah",
+    "age":22,
+    "city":"Dhaka",
+    "score":88
+  },
+  {
+    "student_id":"S002",
+    "name":"Rafi",
+    "age":25,
+    "city":"Sylhet",
+    "score":92
+  },
+  {
+    "student_id":"S003",
+    "name":"Nabila",
+    "age":21,
+    "city":"Dhaka",
+    "score":79
+  },
+  {
+    "student_id":"S004",
+    "name":"Karim",
+    "age":23,
+    "city":"Chattogram",
+    "score":95
+  }
+]

@@ -1,0 +1,20 @@
+# Core teaching stack for Python-Mastery
+# Install into your virtualenv:  pip install -r requirements.txt
+
+# --- Scientific Python (Modules 10-15) ---
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+opencv-python-headless   # computer vision (headless = no GUI windows)
+pillow                   # image loading
+
+# --- Notebook tooling ---
+jupyterlab
+ipykernel
+nbformat
+nbclient
+
+# --- AI / LLM engineering (Module 17) ---
+anthropic                # Claude API SDK

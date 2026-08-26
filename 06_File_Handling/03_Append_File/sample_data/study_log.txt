@@ -1,0 +1,9 @@
+2026-08-24 | studied variables
+2026-08-25 | studied loops
+2026-08-26 | studied file handling
+2026-08-26 | imported lesson notes
+2026-08-26 | ran every example
+2026-08-26 | took a well-earned break
+2026-08-24 | studied loops
+2026-08-25 | studied functions
+2026-08-26 | studied file handling

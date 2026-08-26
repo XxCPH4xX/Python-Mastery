@@ -1,0 +1,4 @@
+Sarah's Study Log
+Day 1: Learned about variables and numbers.
+Day 2: Wrote my first if-statement.
+Day 3: Loops finally make sense!
