@@ -14,5 +14,6 @@
     "editor.mouseWheelZoom": true,
     "editor.formatOnPaste": true,
     "editor.inlineCompletionsAccessibilityVerbose": false,
-    "python.analysis.languageServerMode": "full"
+    "python.analysis.languageServerMode": "full",
+    "python.defaultInterpreterPath": "H:\\Anaconda\\python.exe"
 }
